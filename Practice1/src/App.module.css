@@ -1,0 +1,16 @@
+.app_container{
+  display: flex;
+}
+
+.content{
+  width: 100%;
+}
+.Sidebar{
+  min-height: 773px;
+  width: 280px;
+}
+
+.Post{
+  width: 300px;
+  
+}

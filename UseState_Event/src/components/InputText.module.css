@@ -1,0 +1,12 @@
+.inputt{
+  height: 30px;
+  width: 280px;
+  margin: 10px;
+  padding: 5px;
+}
+
+.btn{
+  background-color: black;
+  color: aqua;
+  height: 30px;
+}

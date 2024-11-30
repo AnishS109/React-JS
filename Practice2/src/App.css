@@ -1,0 +1,37 @@
+.container{
+  display: flex;
+}
+
+.app-content{
+  width: 100%;
+}
+
+.siderbar{
+  height: 773px;
+}
+
+.post{
+  width: 30rem;
+  margin: 30px 50px;
+}
+
+.createPost{
+  margin: 50px 50px;
+  width: 70%;
+}
+
+.tags{
+  margin: 10px;
+}
+
+.reacts{
+  margin: 20px 0 0 0;
+}
+
+.Wel{
+  margin:  100px 0;
+}
+
+.load{
+  margin: 300px 0;
+}
